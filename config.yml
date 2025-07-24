@@ -1,0 +1,91 @@
+header-footer:
+  enabled: true
+  header:
+  - '&f&lSERVER&c&lNAME.NET &7(1.20.1+)'
+  - '&7(( ᴍᴀᴅᴇ ʙʏ ʙʟᴏᴡᴛᴏʙᴀᴄᴄᴏ ))'
+  - ''
+  - '&c⌛| &fYou''re playing on &f&lServer&c&lName'
+  - '&fwith &c%server_online% &fother players!'
+  - ''
+  footer:
+  - ''
+  - '&fDon''t forget to check out our store!'
+  - '&c&lstore.servername.net'
+  - ''
+  - '%animation:Labels%'
+  - ''
+  - '%animation:InfoText%'
+  - '%animation:InfoLink%'
+  - ''
+  - '%animation:ProgressBar%'
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  use-numbers: false
+  remember-toggle-choice: false
+  hidden-by-default: false
+  respect-other-plugins: true
+  static-number: 0
+  delay-on-join-milliseconds: 0
+  scoreboards:
+    scoreboard:
+      title: '&f&lServer&c&lname'
+      lines:
+      - '             &7🕒 %localtime_time_MMM dd yyyy%'
+      - '&7&lInfo »'
+      - ' &c%player_name%'
+      - ' &7• &fRank: %luckperms_prefix%'
+      - ' &7• &fBalance: &f$&b%vault_eco_balance_commas%'
+      - ' &7• &fTeam Name: &8&l[&f%betterteams_name%&8&l]'
+      - ''
+      - '&7&lStats »'
+      - ' &7• &fKills: &b%statistic_player_kills%'
+      - ' &7• &fDeaths: &b%statistic_deaths%'
+      - ''
+      - '&7&lServer »'
+      - ' &7• &fPing: &a%player_ping%ms'
+      - ' &7• &fTPS: %server_tps_1_colored%'
+      - '          &7servername.net    '
+prevent-spectator-effect:
+  enabled: false
+debug: false
+use-online-uuid-in-tablist: true
+permission-refresh-interval: 1000
+proxy-support:
+  enabled: true
+  type: PLUGIN
+  plugin:
+    name: RedisBungee
+compensate-for-packetevents-bug: false
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- Owner
+- Admin
+- Helper
+- default
+belowname-objective:
+  fancy-value-default: NPC
+  fancy-value: '&c%health%'
+  enabled: false
+global-playerlist:
+  update-latency: false
+  enabled: false
+playerlist-objective:
+  title: TAB
+  value: ''
+  render-type: INTEGER
+  enabled: true
+bossbar:
+  enabled: false
+layout:
+  enabled: false
+mysql:
+  enabled: false
+per-world-playerlist:
+  enabled: false
+ping-spoof:
+  enabled: false
+scoreboard-teams:
+  enabled: true
+tablist-name-formatting:
+  enabled: false
