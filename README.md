@@ -10,7 +10,7 @@ git clone https://github.com/BlowTobacco/TAB-config
 C:\Users\Your User\TAB-config
 
 # Preview
-## You can find the animations.yml [here](https://github.com/BlowTobacco/TAB-co`nfig/blob/main/animations.yml)
+## You can find the animations.yml [here](https://github.com/BlowTobacco/TAB-config/blob/main/animations.yml)
 
 ## You can find the config.yml [here](https://github.com/BlowTobacco/TAB-config/blob/main/config.yml)
 
