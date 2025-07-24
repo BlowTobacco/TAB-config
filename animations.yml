@@ -1,0 +1,42 @@
+# You can add this directly
+Labels:
+  change-interval: 6400
+  texts:
+    - "&9&nᴅɪꜱᴄᴏʀᴅ &r&7| &fsᴛᴏʀᴇ &7| &fʜᴇʟᴘ"
+    - "&fᴅɪꜱᴄᴏʀᴅ &7| &a&nsᴛᴏʀᴇ &r&7| &fʜᴇʟᴘ"
+    - "&fᴅɪꜱᴄᴏʀᴅ &7| &fsᴛᴏʀᴇ &7| &c&nʜᴇʟᴘ"
+
+InfoText:
+  change-interval: 6400
+  texts:
+  - "&fJoin our discord for events and more!" # Edit the text if you want.
+  - "&fYou can support us by purchasing something from our store!"
+  - "&fNeed help? Join our discord or talk with a staff member"
+
+InfoLink:
+  change-interval: 6400
+  texts:
+  - "&cdiscord.gg/servername" # Edit the text if you want.
+  - "&cstore.servername.net"
+  - "&cTalk with staff!"
+
+ProgressBar:
+  # Replace the color if you want.
+  change-interval: 400
+  texts:
+    - "&c□□□□□□□□□□□□□□□"
+    - "&c■□□□□□□□□□□□□□□"
+    - "&c■■□□□□□□□□□□□□□"
+    - "&c■■■□□□□□□□□□□□□"
+    - "&c■■■■□□□□□□□□□□□"
+    - "&c■■■■■□□□□□□□□□□"
+    - "&c■■■■■■□□□□□□□□□"
+    - "&c■■■■■■■□□□□□□□□"
+    - "&c■■■■■■■■□□□□□□□"
+    - "&c■■■■■■■■■□□□□□□"
+    - "&c■■■■■■■■■■□□□□□"
+    - "&c■■■■■■■■■■■□□□□"
+    - "&c■■■■■■■■■■■■□□□"
+    - "&c■■■■■■■■■■■■■□□"
+    - "&c■■■■■■■■■■■■■■□"
+    - "&c■■■■■■■■■■■■■■■"
