@@ -4,7 +4,7 @@ header-footer:
   - '&f&lSERVER&c&lNAME.NET &7(1.20.1+)'
   - '&7(( ᴍᴀᴅᴇ ʙʏ ʙʟᴏᴡᴛᴏʙᴀᴄᴄᴏ ))'
   - ''
-  - '&c⌛| &fYou''re playing on &f&lServer&c&lName'
+  - '&c⌛ | &fYou''re playing on &f&lServer&c&lName'
   - '&fwith &c%server_online% &fother players!'
   - ''
   footer:
